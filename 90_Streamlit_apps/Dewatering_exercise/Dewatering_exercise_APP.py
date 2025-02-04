@@ -19,8 +19,6 @@ st.markdown(
     It is presented in eight steps, with an assignment given after every second step.
     
     Use the sidebar to choose the step to activate
-
-    DUMMY CHANGE
     
     ---
 """
